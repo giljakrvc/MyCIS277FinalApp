@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/giljakrvc/MyCIS277FinalApp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Welcome to Panoramic Thrift Store View - PanView App
+# PanView
+# Final Mobile App
+# Author #
+```
+Joel A. Gil
+Rockford, IL, USA
+Rock Valley College
+October 2019
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# App Name: #
 
-### Jekyll Themes
+Sale with panoramic video of the products or product lines(Panoramic Thrift Store View - PanView)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/giljakrvc/MyCIS277FinalApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Description: ###
 
-### Support or Contact
+Application oriented to show the most recent products of a second-hand store / Garage sales through a video that shows the panoramic vision of the products in the store/garage.
+Facing the store/garage place, an user (registered/guess) could make and upload the video of the most recent clothing products of the season or for a holiday grouped by categories (pants, shirts, shoes, etc.) for men, women and young people. Not to mention the electrical appliances, furniture and books, among others.
+It allows us to provide buyer users through the mobile application to know what are the most recent products on display that the selected second-hand store / garage sale place has for sale.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Target Audience: ###
+Any person who is a regular buyer of second-hand products regardless of sex or age.
+
+### Theorical framework: Video Marketing ### 
+Video marketing can be used for everything from building customer rapport, to promoting your brand, services or products. Additionally, video marketing can serve as a medium to present how-to’s, promote customer testimonials, live-stream events and deliver viral (entertaining) content.
+
+Video marketing is using videos to promote and market your product or service, increase engagement on your digital and social channels, educate your consumers and customers, and reach your audience with a new medium.
+
+According to Wyzowl statistics, 63% of businesses have started using video content marketing. Out of those 82% of businesses feel video marketing is an important part of their strategy. Video is progressing rapidly and will reach new heights sooner than we think. This trend is fueled by 83% of businesses believing that video marketing gives them a good ROI.
+
+### References ### 
+* https://www.ngdata.com/what-is-video-marketing/
+* https://www.wyzowl.com/video-marketing-statistics-2017/
+
